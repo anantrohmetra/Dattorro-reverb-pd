@@ -1,0 +1,8 @@
+#N canvas 0 28 1440 900 36;
+#X text 150 44 Imaginary Spaces;
+#X obj 1067 385 Disclaimer;
+#X text 83 100 AKA Digital Reverbs;
+#X obj 1197 767 output~;
+#X text 930 716 sound-check;
+#X obj 1197 716 adc~;
+#X connect 5 0 3 0;

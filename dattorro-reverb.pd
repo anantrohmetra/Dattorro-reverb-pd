@@ -1,4 +1,4 @@
-#N canvas 0 28 1440 900 12;
+#N canvas 0 -28 1440 872 12;
 #X obj 2519 1029 s predelay;
 #X obj 2755 1052 s filter-coefficient;
 #X obj 2287 1028 hsl 200 19 0.01 0.95 1 0 empty empty empty -2 -10 0 12 #fcfcfc #000000 #000000 0 1;

@@ -1,0 +1,10 @@
+#N canvas 0 28 1440 900 36;
+#X text 14 57 Valley Plateau in Vcv Rack;
+#X text 646 57 Clouds Module by mutable instruments;
+#X msg 19 106 open else/plateau.gif;
+#X obj 19 157 pic 0 else/plateau.gif empty empty 0 0;
+#X obj 828 157 pic 0 else/clouds.gif empty empty 0 0;
+#X msg 828 106 open else/clouds.gif;
+#X obj 841 790 reverb-test;
+#X connect 2 0 3 0;
+#X connect 5 0 4 0;

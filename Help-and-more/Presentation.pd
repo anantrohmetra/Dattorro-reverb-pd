@@ -1,8 +1,0 @@
-#N canvas 0 0 1440 872 36;
-#X text 252 105 Imaginary Spaces;
-#N canvas 0 0 1440 872 question 1;
-#X text 33 330 How do we get a sense of space using digital reverb ?;
-#X text 29 119 Do spaces exist inside or outside our head ?;
-#X obj 40 735 digital-not-so-reverb;
-#X text 32 508 Maybe impliment a couple of reverb algorithms to see what's under the hood ?;
-#X restore 265 250 pd question;

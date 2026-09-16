@@ -1,0 +1,9 @@
+#N canvas 0 0 1440 872 36;
+#X text 63 62 Lexicon 224;
+#X text 62 146 One of the earliest reverb units;
+#X text 65 244 High quality and cheap // Only \$7900;
+#X text 63 339 Famously used in Vangelis’ Blade Runner soundtrack;
+#X msg 929 401 open else/lexicon.gif;
+#X obj 929 456 pic 0 else/lexicon.gif empty empty 0 0;
+#X obj 226 730 other-applications;
+#X connect 4 0 5 0;
