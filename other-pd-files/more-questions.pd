@@ -1,5 +1,0 @@
-#N canvas 0 25 1440 847 36;
-#X text -28 287 How do we get a sense of space using digital reverb ?;
-#X text -32 76 Do spaces exist inside or outside our head ?;
-#X text -29 465 Maybe impliment a couple of reverb algorithms to see what's under the hood ?;
-#X obj -85 669 digital-not-so-reverb;

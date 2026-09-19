@@ -1,9 +1,0 @@
-#N canvas 0 0 1440 872 36;
-#X text 123 160 it comes in a little late the delay;
-#X text 120 212 when mod-depth is changed there is cracking sound maybe because of vd~ object audio number and control number;
-#X text 127 113 a lot of input parameters?;
-#X text 1034 399 Ideas ?;
-#X text 128 46 Drawbacks;
-#X text 1035 462 Thoughts ?;
-#X text 1036 526 Feedback ?;
-#X text 205 689 DOWNLOAD \, HAVE FUN & CONTRIBUTE IF YOU'D LIKE;

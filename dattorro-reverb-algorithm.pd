@@ -1,4 +1,0 @@
-#N canvas 0 0 1440 872 24;
-#X text 133 184 Dattorro developed a plate reverb topology for the ESP2 chip by reverse-engineering a Lexicon 224;
-#X text 131 132 Dattorro Reverb Algorithm;
-#X obj 200 375 lexicon;
